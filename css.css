@@ -1,0 +1,21 @@
+p{
+  	text-align: left;
+   	color: red;
+   	font-family: cursive;
+  }
+ul{
+  text-align: left;
+  }          
+    ol{
+         text-align: left;
+        }
+          dl{
+            text-align: left;
+            color: red;
+          }
+table,th,tr,td{
+border: 1px solid blue;
+width: 200;
+border-spacing: 5px;
+padding: 5px;
+}
